@@ -1,0 +1,16 @@
+Let's start the training!
+Let's start the training!
+Let's start the training!
+	Iter: 0 Time: 0.471712636948 Loss_tr: inf Loss_val: 0.817674857544
+	Iter: 16 Time: 2.32440731923 Loss_tr: inf Loss_val: 0.652267370952
+	Iter: 32 Time: 4.11196725368 Loss_tr: inf Loss_val: 0.618852530834
+Let's start the training!
+	Iter: 0 Time: 1.10955313444 Loss_tr: 0.682379007339 Loss_val: 0.615524028738
+Let's start the training!
+	Iter: 0 Time: 0.51253541708 Loss_tr: 0.937938392162 Loss_val: 0.744280514949
+	Iter: 20 Time: 2.37384616534 Loss_tr: 0.745371219516 Loss_val: 0.613924712605
+	Iter: 40 Time: 4.2148589174 Loss_tr: 0.751815831661 Loss_val: 0.5739184065
+	Iter: 60 Time: 6.05065178474 Loss_tr: 0.733408366144 Loss_val: 1.16934394559
+	Iter: 80 Time: 7.87590850194 Loss_tr: 0.822414647043 Loss_val: 0.679127133451
+	Iter: 100 Time: 9.71530373494 Loss_tr: 0.761965180933 Loss_val: 4.10602852978
+	Iter: 120 Time: 11.5667571346 Loss_tr: 0.852192771435 Loss_val: 2.48566054689
